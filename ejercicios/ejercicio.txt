@@ -10,3 +10,6 @@ salida
 nuevo cambio desde mi pc local
 
 cambio desde github.
+
+
+cambio desde mi pc, luego de hacer clone
